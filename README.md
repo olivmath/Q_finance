@@ -14,4 +14,6 @@
 - [x] Aula 3: Cálculo de Retorno do Portifólio
 - [x] Aula 4: Índices de Mercado
 - [x] Aula 5: Risco e Volatilidade
-- [ ] Aula 6: Risco de um Portifólio Simples
+- [ ] Aula 6: ### !ERRO! ### Risco de um Portifólio Simples
+- [ ] Aula 7: Regressões Simples
+- [ ] Aula 8: Otimização de Portfólio de Markowitz
